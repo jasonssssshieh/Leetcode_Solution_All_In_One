@@ -1,6 +1,6 @@
 题目链接：https://leetcode.com/problems/cat-and-mouse/description/
 
-个人认为是2018-2019的leetcode冬季赛题里出的最好的一个题。博主也是在Google onsite前一天把这个题给看明白了，虽然面试也没被问到。
+个人认为是2018-2019的leetcode冬季赛题里出的最好的一个题。博主也是在Google onsite前一天把这个题给看明白了
 但这个题的思路也是非常有助于理解dynamic programming和博弈。其实思路理解之后写代码非常容易，稍微繁琐了一点。
 好了不废话，进入题解。
 
