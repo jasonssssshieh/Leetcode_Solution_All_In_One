@@ -1,3 +1,11 @@
+/*
+https://leetcode.com/problems/shortest-path-with-alternating-colors/description/
+寻找从0开始到每一个点的最短距离,并且这个path必须是color alternative的
+BFS
+同时每次visit某个节点的位置的时候 需要考虑red和blue两条edge.
+
+*/
+
 class Solution {
 public:
     vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& red_edges, vector<vector<int>>& blue_edges) {
